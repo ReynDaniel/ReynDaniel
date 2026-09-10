@@ -27,7 +27,7 @@ STM32F446RE embedded firmware | T200 thrusters | IMU | depth sensing | Raspberry
 - STM32CubeIDE | STM32CubeMX | FEA | SolidWorks
 
 **Engineering**
-- 22 years mechanical design — mining, manufacturing, infrastructure
+- 25 years mechanical design — mining, manufacturing, infrastructure
 - Design for manufacture | FEA | Hydrodynamic analysis
 - Machinist/Fitter trade background
 
