@@ -2,8 +2,8 @@
 ### Mechanical & Mechatronics Engineer | Embedded Systems | Robotics & Autonomous Systems
 
 > Founder & Principal Engineer — REYN Consultancy  
-> BEng (Honours) Mechatronics & Robotics — UniSQ (Final Semester)  
-> 22 years industry experience — mining, manufacturing, infrastructure, automation
+> BEng (Honours) Mechatronics & Robotics — UniSQ  
+> 25 years of industry experience — mining, manufacturing, infrastructure, automation
 
 ---
 
